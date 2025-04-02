@@ -34,4 +34,4 @@ pipeline:
                   identifier: Run_1
                   spec:
                     shell: Sh
-                    command: yum clean install
+                    command: mvn clean install
